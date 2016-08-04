@@ -1,0 +1,29 @@
+_repo: Miss-Minerva-and-William-Green-Hill_5187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calhoun, Frances Boyd
+    birthdate: 1867
+    deathdate: 1909
+    gutenberg_agent_id: '1730'
+    url: http://www.gutenberg.org/2009/agents/1730
+description: 'What a wonderful funny book about a little boy growing up in Tennessee.
+  Frances Calhoun wrote in the conversational southern language of the early 20th
+  century. Episodes include: ""The Rabbit''s Left Hind Foot"", ""A Green Eyed Billy""
+  and, ""Education and Its Perils."" After the author''s death, later books in this
+  series were written by Emma Sampson.'
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Aunts -- Fiction'
+- !lcsh 'Southern States -- Fiction'
+- GITenberg
+title: Miss Minerva and William Green Hill
+url: http://www.gutenberg.org/ebooks/5187
