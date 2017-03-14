@@ -1,5 +1,8 @@
 _repo: Miss-Minerva-and-William-Green-Hill_5187
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Calhoun, Frances Boyd
@@ -12,6 +15,8 @@ description: 'What a wonderful funny book about a little boy growing up in Tenne
   century. Episodes include: ""The Rabbit''s Left Hind Foot"", ""A Green Eyed Billy""
   and, ""Education and Its Perils."" After the author''s death, later books in this
   series were written by Emma Sampson.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5187#Miss-Minerva-and-William-Green-Hill
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
